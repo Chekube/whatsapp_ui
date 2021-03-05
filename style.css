@@ -1,0 +1,105 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: rgb(79, 189, 121);
+    width: 100%;
+    height: 40px;
+}
+
+p {
+    color: white;
+    padding: 10px 0 0 10px;
+}
+
+.container {
+    width: 100%;
+    height: 720px;
+    display: flex;
+}
+
+main1 {
+    background-color: rgb(187, 176, 176);
+    width: 30%;
+    height: 720px;
+}
+
+h5 {
+    font-size: 20px;
+    margin-left: 70px;
+    
+}
+
+main2 {
+    width: 70%;
+    height: 720px;
+    background-color: ghostwhite;
+}
+
+#firstdiv {
+    width: 100%;
+    height: 100px;
+}
+
+#seconddiv {
+    width: 100%px;
+    height:640px ;
+    background-color: wheat;
+}
+
+#div1 {
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid rgb(245, 238, 245);
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.circle img {
+    border-radius: 50%;
+}
+
+#div2 {
+    width: 100%;
+    height: 50px;
+}
+   
+#search {
+    width: 90%;
+    height: 32px;
+    border-radius:35px;
+    background-color: white;
+    margin: 10px 0 0 22px;
+}
+
+
+.divs {
+    width: 100%;
+    height: 62px;
+    border: 1px solid white;
+    background-color: honeydew;
+    display: flex;
+}
+
+p {
+    color: black;
+}
+
+.messages .circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 150px 100px 300px 300px;
+    text-align: center;
+}
+
+.circle h3 {
+    font-size: 25px;
+}
